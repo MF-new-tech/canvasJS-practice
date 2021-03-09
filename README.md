@@ -8,7 +8,7 @@ Familiarize myself with the foudations of CanvasJS.
 
 ## Results
 
-![canvas constellation](https://media.giphy.com/media/1un8KoonyaaQqZEmOp/giphy.gif)
+<iframe src="https://giphy.com/embed/1un8KoonyaaQqZEmOp" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1un8KoonyaaQqZEmOp">via GIPHY</a></p>
 
 ###### References
 

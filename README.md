@@ -8,7 +8,7 @@ Familiarize myself with the foudations of CanvasJS.
 
 ## Results
 
-<img src="https://media.giphy.com/media/1un8KoonyaaQqZEmOp/giphy.gif" alt="canvas constellation">
+![canvas constellation](https://media.giphy.com/media/1un8KoonyaaQqZEmOp/giphy.gif)
 
 ###### References
 
